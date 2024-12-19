@@ -33,7 +33,7 @@
     "nomar": "^1.1.0",
     "parse5": "^2.1.5",
     "walverine": "^0.0.7",
-    "xmldom": "^0.1.22"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "deep-equal": "^1.0.1",
